@@ -28,7 +28,7 @@ NanoBanana | Veo | Sora | LangChain | ElevenLabs | Fine-tuning (PyTorch) | Promp
 ```python
 Python | Jupyter | Replit | AWS | Azure | MySQL | Google Firestore 
 GitHub | n8n | Make | Zapier | Voiceflow | Bootstrap | FastAPI
-иии
+```
 
 ---
 
